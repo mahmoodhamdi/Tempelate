@@ -19,7 +19,6 @@ class THelperFunctions {
         case SnackBarType.warning:
           return warning;
         case SnackBarType.info:
-        default:
           return info;
       }
     }
@@ -33,7 +32,6 @@ class THelperFunctions {
         case SnackBarType.warning:
           return Icons.warning_amber_rounded;
         case SnackBarType.info:
-        default:
           return Icons.info_outline;
       }
     }

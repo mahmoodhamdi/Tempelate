@@ -16,6 +16,8 @@ dependencies:
   url_launcher:
   intl:
   flutter_bloc:
+  flutter_localizations:
+    sdk: flutter
 dev_dependencies:
   flutter_test:
     sdk: flutter

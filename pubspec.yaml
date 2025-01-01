@@ -1,0 +1,24 @@
+name: tempelate
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+1
+environment:
+  sdk: ^3.6.0
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: 
+  get_it:
+  go_router:
+  shared_preferences:
+  dio:
+  logger:
+  url_launcher:
+  intl:
+  flutter_bloc:
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints:
+flutter:
+  uses-material-design: true
